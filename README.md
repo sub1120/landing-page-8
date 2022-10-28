@@ -1,4 +1,6 @@
-# Landing Page Project #8
+# FSJS Course | HTML & CSS Project #8
+
+## Design Landing Page : [Deployed Link](https://regal-otter-fcfcbd.netlify.app/)
 
 ![Screenshot 2022-08-19 at 07-57-09 Design Landing Page](https://user-images.githubusercontent.com/43786036/185529616-f5edd462-0b5f-4e77-b00e-d852d3d920b0.png)
 
